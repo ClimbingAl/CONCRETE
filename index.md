@@ -13,6 +13,30 @@ Developing new digital foundations
 
 ----
 
+A genuine 'welcome'. This website is used to aid communication between people who are involved in developing new digital foundations. You are now part of an incredibly diverse group.
+
+**Developing** This is not just discussion; this is an active developmental process. Do not be fooled by the glossy website view, this is work-in-progress. Please get involved.
+
+**new** We have digital foundations already.  They give us the look and feel for the digital things and societal effects around us. People involved in this activity are motivated by the concept that we can do much better.
+
+**digital** This is to do with anything that is computer-like: hardware, software etc. (Actually this spans beyond digital into quantum and other areas - but 'digital' is a reasonable starting point for a tag line)
+
+**foundations** Like building foundations, digital foundations are the basis for making useful structures. Foundations are enablers, not the main show, yet they are incredibly important. Also like building foundations, technical digital foundations may not be particularly impressive to non-specialists.  Do not worry - there is no need to 'ooh' and 'aah', nobody will take offense. 
+
+----
+
+Project CONCRETE is a **socio-techical** development activity.  The most important part of that is 'socio-'. Digital devices are just physical tools used by people, organisations, groups, and societies.  The underlying hypothesis here is that new foundations could enable radicle improvements.  As with improving any tool, there is an expectation that we can (dramatically, in this case) improve our efficiency and effectiveness (concepts such as productivity, and energy and resource efficiency). However, Project CONCRETE goes much further, our digital foundations also set the stage for many other socio- factors such as communication, decision making, and societal discourse. There is enormous room for improvement. 
+
+Project CONCRETE needs to enable an incredibly diverse group of people to come together to work effectively: politicians, scientists, engineers, parents, children, everyone. Socio- and -technical are intextricably linked. The aim of this site is to provide self-help material to enable anyone, from any background or perspective, to confidently engage with the totality. There is no one-size-fits-all route through this material, please use the navigation and links to explore.
+
+
+
+
+
+
+
+
+
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
