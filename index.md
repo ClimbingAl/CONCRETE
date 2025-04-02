@@ -25,10 +25,20 @@ A genuine 'welcome'. This website is used to aid communication between people wh
 
 ----
 
-Project CONCRETE is a **socio-techical** development activity.  The most important part of that is 'socio-'. Digital devices are just physical tools used by people, organisations, groups, and societies.  The underlying hypothesis here is that new foundations could enable radicle improvements.  As with improving any tool, there is an expectation that we can (dramatically, in this case) improve our efficiency and effectiveness (concepts such as productivity, and energy and resource efficiency). However, Project CONCRETE goes much further, our digital foundations also set the stage for many other socio- factors such as communication, decision making, and societal discourse. There is enormous room for improvement. 
+Project CONCRETE is a **socio-technical** development activity.  The most important part of that is **'socio-'**. Digital devices are just physical tools used by people, organisations, groups, and societies.  The underlying hypothesis here is that new foundations could enable radicle improvements.  As with improving any tool, there is an expectation that we can (dramatically, in this case) improve our efficiency and effectiveness (concepts such as productivity, and energy and resource efficiency). However, Project CONCRETE goes much further, our digital foundations also set the stage for many other socio- factors such as communication, decision making, fairness, and societal discourse. There is enormous room for improvement. 
 
-Project CONCRETE needs to enable an incredibly diverse group of people to come together to work effectively: politicians, scientists, engineers, parents, children, everyone. Socio- and -technical are intextricably linked. The aim of this site is to provide self-help material to enable anyone, from any background or perspective, to confidently engage with the totality. There is no one-size-fits-all route through this material, please use the navigation and links to explore.
+Project CONCRETE needs to enable an incredibly diverse group of people to come together to work effectively: politicians, scientists, engineers, parents, children, everyone. Socio- and -technical are inextricably linked. The aim of this site is to provide self-help material to enable anyone, from any background or perspective, to confidently engage with the totality. There is no one-size-fits-all route through this material, please use the navigation links (left or burger bun top-right) to explore. If in doubt, try starting in the 'socio-' section.  Welcome, have fun, and please do engage.
 
+----
+
+{: .note-title}
+>I want to support this, or get involved
+>
+>Project CONCRETE started as a UK Government initiative but has yet to become a mainstream funded activity - you can help to change this by simply highlighting the need from your own perspective - get creative.
+>
+>Follow the link below for more engagement opportunities (Issues and Discussions sections are a good starting point). This is entirely open to humanity - everyone is welcome.
+
+[Link to CONCRETE GitHub area](https://github.com/BigMassive/CONCRETE){: .btn }
 
 
 
