@@ -1,8 +1,8 @@
 title: Project CONCRETE
-description: Material for digital foundations
+description: Developing new digital foundations
 theme: just-the-docs
 
 url: https://BigMassive.github.io/CONCRETE
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+#aux_links:
+#  Template Repository: https://github.com/just-the-docs/just-the-docs-template

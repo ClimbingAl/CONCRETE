@@ -1,9 +1,15 @@
 ---
 title: Home
 layout: home
+nav_order: 1
+permalink: /
 ---
 
-Welcome to Project CONCRETE.
+# Welcome to Project CONCRETE
+{: .fs-9 }
+
+Developing new digital foundations
+{: .fs-6 .fw-300 }
 
 ----
 
