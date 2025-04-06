@@ -1,7 +1,7 @@
 ---
 title: Trust boundaries and scale
 parent: Security, Trust, and Risk
-nav_order: 4
+nav_order: 10
 ---
 
 link back to prior knowledge - need to have a basic understanding about BBAC.

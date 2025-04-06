@@ -1,5 +1,6 @@
 ---
 title: Computing style
+parent: Development path
 nav_order: 97
 ---
 

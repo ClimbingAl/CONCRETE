@@ -1,5 +1,5 @@
 ---
-title: Data Security
+title: Physical Security
 parent: Security, Trust, and Risk
 nav_order: 2
 ---

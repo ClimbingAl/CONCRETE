@@ -1,7 +1,7 @@
 ---
-title: Information Security
+title: Data Security
 parent: Security, Trust, and Risk
-nav_order: 1
+nav_order: 4
 ---
 
 Placeholder for information security

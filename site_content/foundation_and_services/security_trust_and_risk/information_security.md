@@ -1,5 +1,5 @@
 ---
-title: Physical Security
+title: Information Security
 parent: Security, Trust, and Risk
 nav_order: 3
 ---

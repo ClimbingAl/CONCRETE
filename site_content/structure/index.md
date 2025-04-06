@@ -19,15 +19,15 @@ A genuine 'welcome'. This website is used to aid communication between people wh
 
 **new** We have digital foundations already.  They give us the look and feel for the digital things and societal effects around us. People involved in this activity are motivated by the concept that we can do much better.
 
-**digital** This is to do with anything that is computer-like: hardware, software etc. (Actually this spans beyond digital into quantum and other areas - but 'digital' is a reasonable starting point for a tag line)
+**digital** This is to do with anything that is computer-like: hardware, software etc. (Actually this extends beyond digital into quantum and other areas - but 'digital' is a reasonable starting point for a tag line)
 
-**foundations** Like building foundations, digital foundations are the basis for making useful structures. Foundations are enablers, not the main show, yet they are incredibly important. Also like building foundations, technical digital foundations may not be particularly impressive to non-specialists.  Do not worry - there is no need to 'ooh' and 'aah', nobody will take offense. 
+**foundations** Like building foundations, digital foundations are the basis for making useful structures. Foundations are enablers, not the main show, yet they are incredibly important. Also like building foundations, technical digital foundations may not be particularly impressive to non-specialists.  Do not worry - there is no need to 'ooh' and 'aah', nobody will take offense. It's what we do with them that counts.
 
 ----
 
 Project CONCRETE is a **socio-technical** development activity.  The most important part of that is **'socio-'**. Digital devices are just physical tools used by people, organisations, groups, and societies.  The underlying hypothesis here is that new foundations could enable radical improvements.  As with improving any tool, there is an expectation that we can (dramatically, in this case) improve our efficiency and effectiveness (concepts such as productivity, and energy and resource efficiency). However, Project CONCRETE goes much further, our digital foundations also set the stage for many other socio- factors such as communication, decision making, fairness, and societal discourse. There is enormous room for improvement. 
 
-Project CONCRETE needs to enable an incredibly diverse group of people to come together to work effectively: politicians, scientists, engineers, parents, children, everyone. Socio- and -technical are inextricably linked. The aim of this site is to provide self-help material to enable anyone, from any background or perspective, to confidently engage with the totality. There is no one-size-fits-all route through this material, please use the navigation links (left or burger bun top-right) to explore. Welcome, have fun, and please do engage.
+Project CONCRETE is not restricted to 'what' those foundations might be, it also considers how they will be made, maintained, and used.  This requires us to enable an incredibly diverse group of people to come together to work effectively: politicians, scientists, engineers, parents, children, everyone. The aim of this site is to provide self-help material to enable anyone, from any background or perspective, to confidently engage with the totality. There is no one-size-fits-all route through this material, please use the navigation links (left or burger bun top-right) to explore. Welcome, have fun, and please do engage.
 
 ----
 
