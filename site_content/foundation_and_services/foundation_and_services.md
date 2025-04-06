@@ -12,7 +12,7 @@ On a day-to-day basis users will work with tools built on these foundations, not
 
 ----
 
-This section starts by describing just [three basic user needs]({% link site_content/foundation_and_services/basic_needs.md %}).  These are enough to substantially limit the technical design space. We then jump straight to the main outline technical 'stack' sketch. There is introductory material about the building blocks. We then use that technical sketch as the basis to develop much more socio-technical detail. This is still far from a complete technical description, there is a dedicated area for the most speculative parts of the cutting-edge. Having intermixed socio- with a lot of -technical, a dedicated user perspective provides a summary-style overview; a first day at your new work walk-through.
+This section starts by describing just [four basic user needs]({% link site_content/foundation_and_services/some_basic_needs.md %}).  These are enough to substantially limit the technical design space. We then jump straight to the main outline technical 'stack' sketch. There is introductory material about the building blocks. We then use that technical sketch as the basis to develop much more socio-technical detail. This is still far from a complete technical description, there is a dedicated area for the most speculative parts of the cutting-edge. Having intermixed socio- with a lot of -technical, a dedicated user perspective provides a summary-style overview; a first day at your new work walk-through.
 
 
 

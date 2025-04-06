@@ -10,7 +10,7 @@ Making the most of it
 {: .fs-6 .fw-300 }
 ----
 
-Microcosm
+
 
 Post-scarcity society
 
