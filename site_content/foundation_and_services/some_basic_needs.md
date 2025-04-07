@@ -106,7 +106,7 @@ Users need a single ecosystem that technically minimises any and all barriers to
 
 It is impossible to get the most out of a tool that you don't understand and can't predict.  To act efficiently and effectively in the world, people need to be able to reason about the consequences of actions and events.  Inaccurate understanding and reasoning leads to people taking inappropriate risks - either too much (leading to shock failures, and at the extreme, death) or too little (leading to, often unrecognised, underperformance). Whatever this system is, **it needs to be based on a small number of easy to understand principles** (easy for all humans, not just specialists). 
 
-For this same reason, in a single collaborative environment it is also important to guard against the potential for one user's actions to inappropriately effect someone else; there should be no unknown ghosts playing tricks in the machine. 
+For this same reason, in a single collaborative environment it is also important to guard against the potential for one user's actions to inappropriately effect someone else; there should be no ghosts playing tricks in the machine. 
 
 ## Enabling dynamic risk management in a dynamic world
 
@@ -114,7 +114,7 @@ Risk-reward balances are continuously changing in a dynamic world. Something tha
 
 ## Distributed and decentralised
 
-Centralised network approaches pre-bake risk into a system.  There is nothing wrong with centralisation itself; it is commonly useful to achieve an efficiency/effectiveness goal.  What matters is how this is achieved.  It is always possible to overlay a centralised approach on a fundamentally distributed and decentralised system.  The reverse is not true.  Resiliency and redundancy are powerful local risk management tools, they need to be available as the norm not the exception.
+Centralised network approaches pre-bake risk into a system.  There is nothing wrong with centralisation itself; it is commonly useful to achieve an efficiency/effectiveness goal.  What matters is how this is achieved.  It is always possible to overlay a centralised approach on a fundamentally distributed and decentralised system.  The reverse is not true.  Resiliency, redundancy, and flexibility are powerful local risk management tools, they need to be available as the norm not the exception.
 
 ![Image depicting how centralised systems are vulnerable to targeting, we want a fully connected distributed network, but don't expect it](../../../images/current/distributed_and_decentralised.png)
 
