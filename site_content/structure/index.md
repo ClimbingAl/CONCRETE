@@ -13,6 +13,11 @@ Developing new digital foundations
 
 ----
 
+
+{: .warning}
+> You are most welcome, but this site is under construction - it's a complete mess.
+
+
 A genuine 'welcome'. This website is used to aid communication between people who are involved in developing new digital foundations. You are now part of an incredibly diverse group.
 
 **Developing** This is not just discussion; this is an active developmental process. Do not be fooled by the glossy website view, this is work-in-progress. Please get involved.
