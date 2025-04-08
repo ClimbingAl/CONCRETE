@@ -35,6 +35,8 @@ callouts:
 
 nav_enabled: true
 
+favicon_ico: "/images/current/concrete_icon.ico"
+
 mermaid:
   version: "11.6.0"
 

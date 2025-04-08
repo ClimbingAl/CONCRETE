@@ -8,7 +8,7 @@ nav_order: 3
 This is a collection of inter-related material for many people with different needs.  It is not really meant to be consumed linearly.  Unfortunately this makes it one-size-fits-none.  It is broadly organised into 3 high-level categories:
 
 -   Socio-technical material about the 'foundation', associated ways of working, and services.  What is it? and How to use it?
--   The practical development path.  How do we make and maintain this?
+-   The practical journey or development path.  How do we go about making and maintaining this?
 -   Wider implications and viewpoints. How do we make the most our foundation? So-what?
 
 Basic search is provided.

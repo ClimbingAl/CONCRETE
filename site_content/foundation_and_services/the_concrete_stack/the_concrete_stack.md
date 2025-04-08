@@ -34,13 +34,13 @@ The diagram below is a technical sketch of the make-up of an abstract node and s
 | [Wallet]({% link site_content/foundation_and_services/the_concrete_stack/wallet.md %})                             | Somewhere to store cryptographic keys etc.                                   |
 | [Matrix]({% link site_content/foundation_and_services/the_concrete_stack/matrix.md %})                             | Distributed, decentralised communications media.                             |
 | [Security and Risk]({% link site_content/foundation_and_services/the_concrete_stack/security_and_risk.md %})       | Applications associated with security and risk.                              |
-| [Spacetime Management]({% link site_content/foundation_and_services/the_concrete_stack/spacetime_management.md %}) | Infrastructure and processes associated with clocks.                         |
+| [Spacetime Management]({% link site_content/foundation_and_services/the_concrete_stack/spacetime_management.md %}) | Infrastructure and processes associated with clock synchronisation           |
 | [Dongles]({% link site_content/foundation_and_services/the_concrete_stack/dongles.md %})                           | Non-nodal devices for users and security.                                    |
 | [HQDM]({% link site_content/foundation_and_services/the_concrete_stack/hqdm.md %})                                 | The ontology - the ultimate tool for data interoperability.                  |
-| [HMI Best Practice]({% link site_content/foundation_and_services/the_concrete_stack/hmi_best_practices.md %})     | Human Machine Interface standards - crucial for efficiency and effectiveness |
+| [HMI Best Practice]({% link site_content/foundation_and_services/the_concrete_stack/hmi_best_practices.md %})      | Human Machine Interface standards - crucial for efficiency and effectiveness |
 
 
-
+<span>To-do</span>{: .label .label-blue} (Re)consider whether to add 'maths standards' to the core stack diagram.  We don't want the answers to yes/no fire-the-missile questions to vary depending on where they were carried out.
 
 
 

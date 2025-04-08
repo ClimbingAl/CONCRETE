@@ -4,23 +4,23 @@ parent: Foundation and Services
 nav_order: 98
 ---
 
-Placeholder - while we don't want to dwell on the past, it might be useful to collect
-some material about how we got here.
+We don't want to dwell on the past, but our great new foundations don't preclude people from returning to some bad habits.
 
-files types 
 
-mutable files.
+governments not involved.  Leaving things to industry.  Implications for social media etc.
 
-security based on access control lists
+procurement model forced everyone to make entire stacks - this was a capability killer.  Products -> Services.
+
+mutable files.files types 
 
 desktops.
 
 email.
 
-governments not involved.  Leaving things to industry.  Implications for social media etc.
+Software packages are too big - and cause boundaries. Think very small and composable.
 
 Gutenberg Parenthesis
 
-TCP/IP
 
-procurement model forced everyone to make entire stacks - this was a capability killer.  Products -> Services.
+
+
