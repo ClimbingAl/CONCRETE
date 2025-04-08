@@ -15,7 +15,7 @@ Developing new digital foundations
 
 
 {: .warning}
-> You are most welcome, but this site is under construction - it's a complete mess.
+> You are most welcome, but this site is under construction - it's a complete mess - actually it's a very incomplete mess.
 
 
 A genuine 'welcome'. This website is used to aid communication between people who are involved in developing new digital foundations. You are now part of an incredibly diverse group.
