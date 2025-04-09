@@ -9,13 +9,17 @@ has_toc: false
 {: .fs-9 .no_toc }
 
 
-Digital=age tools
+Digital-age tools
 {: .fs-6 .fw-300 }
 ----
 
 Stuff about security and risk
 
-  
+What do we mean by security?
+
+Need to know.
+
+This is entirely socio- , we just want to be helped by our digital.
 
 
  
