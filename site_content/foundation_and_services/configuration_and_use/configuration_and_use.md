@@ -19,6 +19,9 @@ The picture painted by the CONCRETE stack alone is almost a blank canvas (too bl
 
 The following pages describe additional mechanisms to enable users to manage security, risk, and access to digital resources. While unlocking access to huge amounts of data and information will be incredibly powerful, in a dynamic world, users would quickly get lost in the mayhem; further mechanisms to enable provenance tracking and reproducibility are added.
 
+Search, discovery, and interoperability.
+
+
 <span>To-do</span>{: .label .label-blue} The socio-technical drivers discussed here currently focus on groups of people at the scale of medium-to-large companies and government departments. This work needs to be extended to include groups with different sizes and different personas. The CONCRETE foundation needs to be able support groups that grow and shrink in size from an individual to an entire society.  This is discussed at greater length LINK-here.
 
   
