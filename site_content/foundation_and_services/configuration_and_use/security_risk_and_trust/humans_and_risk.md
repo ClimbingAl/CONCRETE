@@ -1,6 +1,6 @@
 ---
 title: Humans and risk
-parent: Security, associated risk, and trust
+parent: Security, risk, and trust
 nav_order: 5
 has_toc: false
 ---

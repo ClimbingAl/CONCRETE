@@ -1,6 +1,6 @@
 ---
 title: Networking
-parent: Security, associated risk, and trust
+parent: Security, risk, and trust
 nav_order: 7
 has_toc: false
 ---

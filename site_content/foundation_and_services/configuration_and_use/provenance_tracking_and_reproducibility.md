@@ -9,7 +9,7 @@ has_toc: false
 {: .fs-9 .no_toc }
 
 
-Don't get lost
+Don't get lost in your own information and data
 {: .fs-6 .fw-300 }
 ----
 

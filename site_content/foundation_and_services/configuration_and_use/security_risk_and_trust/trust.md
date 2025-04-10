@@ -1,6 +1,6 @@
 ---
 title: Trust
-parent: Security, associated risk, and trust
+parent: Security, risk, and trust
 nav_order: 4
 has_toc: false
 ---
@@ -15,3 +15,6 @@ It's all social
 
 Trust boundaries
 From small beginnings - group trust dynamics.
+
+CONCRETE enclave identity is closely related to the IOTA genesis.
+

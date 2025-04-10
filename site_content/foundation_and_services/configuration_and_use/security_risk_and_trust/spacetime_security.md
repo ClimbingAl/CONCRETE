@@ -1,6 +1,6 @@
 ---
 title: Spacetime security
-parent: Security, associated risk, and trust
+parent: Security, risk, and trust
 nav_order: 8
 has_toc: false
 ---
@@ -14,4 +14,4 @@ Clock synchronisation is important
 ----
 
 The need for spacetime management for security
-
+The role of IOTA and truth.

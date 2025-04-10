@@ -1,6 +1,6 @@
 ---
 title: Information Security
-parent: Security, associated risk, and trust
+parent: Security, risk, and trust
 nav_order: 2
 has_toc: false
 ---

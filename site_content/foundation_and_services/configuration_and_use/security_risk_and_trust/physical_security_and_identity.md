@@ -1,6 +1,6 @@
 ---
 title: Physical security and identity
-parent: Security, associated risk, and trust
+parent: Security, risk, and trust
 nav_order: 6
 has_toc: false
 ---
