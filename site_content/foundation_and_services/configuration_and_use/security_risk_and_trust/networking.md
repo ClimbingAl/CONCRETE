@@ -17,3 +17,5 @@ Maybe this should be data movement and networking?
 
 Ouroboros
 
+Need for users to influence / describe routing patterns - to security/risk associated with network links and nodes.
+

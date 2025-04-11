@@ -69,6 +69,8 @@ Off-line, on-line
 
 Guards and who guards the guards.
 
+slightly complex Authoritiy hierarchies to figure out - King to ... to guards ... to CJO  back to guards ... to bosses ...to other bosses ... to users. 
+
 ## The need for pseudonyms
 
 pseudonyms - confused deputy - prevent personnel from combining multiple tokens from different bosses (without them knowing it) to gain a capability that was not envisaged.
@@ -79,11 +81,11 @@ Different projects from the same boss.
 
 Semantic clarity.
 
-Not about restricted set of possibilities.
-
 Enable the boss to be precise when they want to be
 
-functionality to be clear about what we can do and what is being asked.
+Common meanings between those setting up capabilities and the underlying system.
+
+Not about restricted set of possibilities.
 
 Only use this in room 123. - what do we mean by 'in' and 'room 123'.  We don't want a fragile standardised approach - HQDM enables us to do this.
 
