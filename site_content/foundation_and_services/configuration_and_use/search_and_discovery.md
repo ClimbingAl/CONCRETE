@@ -1,11 +1,11 @@
 ---
-title: Search, discovery, and interoperability
+title: Search and discovery
 parent: Configuration and Use
 nav_order: 4
 has_toc: false
 ---
 
-# Search, discovery, and interoperability
+# Search and discovery
 {: .fs-9 .no_toc }
 
 
@@ -17,7 +17,6 @@ Ontology, availability implications
 
 Potential here to discuss IPLD, search engines etc - not clear whether these are foundational.
 
-Gateway tools for the edges.
  
 
 

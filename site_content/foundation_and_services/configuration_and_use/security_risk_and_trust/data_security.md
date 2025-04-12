@@ -67,6 +67,7 @@ Data meta data tags
 - Users are expected to choose to use datasets that have the minimum possible information content for their task.
 - Users are expected to self-impose the most restrictive conditions for that access - including delaying the first access time.
 - Meta-data notes help users to understand the risks associated with using a dataset.  
+- People can always 'phone a friend' to ask for more opinion 
 - Everyone can add to this meta-data guidance including providing links to alternatives.
 - Everyone can add tools that enable possible information content to be reduced.
 - Everyone can add alternative datasets.
@@ -76,18 +77,33 @@ Data meta data tags
 - It is up to bosses to decide whether the correct risk/reward balance is being made.
 - A boss granting access to a user does not give themselves an access right.
 
+People interested in data access to a particular data set can always monitor it.  They would be accessing another datastream of course though, which would itself have risk/reward implications.
+
 Guards to monitor and in extreme cases intervene.
 
 Guards nudge both ways - not taking enough risk.  There's a spectrum of risk.  
 
-Honoring the meta-data implications - limit to CONCRETE-enclave size.
+Guard tooling similar to fraud detection - outliers vs outlaws; trends etc.
 
+## Trust
+
+Honoring the meta-data implications - limit to CONCRETE-enclave size.
+Trust boundaries
+From small beginnings - group trust dynamics.
+
+Normal to have human cliques, but don't confuse these with organisational lack of trust.  It's all one big team.  
+
+CONCRETE enclave identity is closely related to the IOTA genesis.
 ## Dynamic risk management
 
 Local-first decision making.  Can't pre-emptively make rules for every situation.
 
+Risks and rewards change over time.
+
 Accelerating by Left-shifting the generation of the information required by data access decision makers to make it available when it's needed.
-HQDM
+
+HQDM - it keeps on appearing :-)
+
 
 ## Responsibilities not ownership
 

@@ -1,7 +1,7 @@
 ---
 title: Spacetime security
 parent: Security, risk, and trust
-nav_order: 8
+nav_order: 7
 has_toc: false
 ---
 
