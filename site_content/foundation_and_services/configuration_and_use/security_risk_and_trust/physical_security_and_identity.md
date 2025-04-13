@@ -43,7 +43,7 @@ The level of security should be fit for purpose - this is about the tools.
 The role of Probability 
 
 
-## Human Identity
+## Human Identity and layering
 
 The CONCRETE access-control, data, and information security approaches are primarily based on cryptographic techniques. These act as mathematical locks and keys (they are commonly long strings of numbers). It's doing a lot of security heavy lifting - loss of these numbers could allow bad things to happen.
 These are great, but those keys have to be stored somewhere (physical). People will lose them.

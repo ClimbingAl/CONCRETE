@@ -1,6 +1,6 @@
 ---
 title: Appreciation
-nav_order: 99
+nav_order: 90
 ---
 
 Open source and support recognition

@@ -1,6 +1,6 @@
 ---
 title: Search and discovery
-parent: Configuration and Use
+parent: Cutting-edge
 nav_order: 4
 has_toc: false
 ---
