@@ -28,6 +28,10 @@ Holistic view - link to How complex systems fail.
 
 CONCRETE foundations cannot 'solve risk' but it can recognise and support tooling and associated processes.
 
+- TOC
+{:toc}
+
+
 ## Tools
 
 User control but there's a lot of detail (eg could choose to pay to save some data on any node in the CONCRETE network).  There will be times when users will need this level of detail, but for much of the time, we can expect users to seek to defer to configurable automations (strategies, etc)
@@ -39,6 +43,8 @@ This won't be one tool it will be many.
 These tools will need various sources of truth within the network, but also on the boundaries - What is an oracle?
 
 The golden CONCRETE threads and payment system provide accurate useful information about where a user (or collectively and organisations) data, compute etc are.  This will help a lot with this kind of analysis.
+
+Tools associated with monitoring risk are not just for guards to monitor users and bosses - in most cases they can be used by these people to help to provide feedback about potential courses of action that they are considering - am I about to do something silly?  Help with social engineering side.
 
 (Contingency) planning.  Can't all fall back on the same thing.  Markets - and 4D planning tools (LINK)
 
