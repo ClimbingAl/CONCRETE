@@ -52,6 +52,9 @@ Use of pseudonyms help with this.
 
 Identity services.  
 
+Want the organisation of this to be layered too - separate teams for fingerprints, DNA, gait, facial recognition, .. each providing their own outputs that others can use.
+who guards the guards.
+
 Dongles.  Something I own - identity.  Which in turn can start to add more functionality for the management of need-to-know.
 
 Separate gait identification. Biometric face recognition.... 
