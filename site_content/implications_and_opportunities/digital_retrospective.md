@@ -1,6 +1,6 @@
 ---
 title: Digital retrospective
-parent: Foundation and Services
+parent: Implications and opportunities
 nav_order: 98
 ---
 
@@ -19,7 +19,6 @@ email.
 
 Software packages are too big - and cause boundaries. Think very small and composable.
 
-Gutenberg Parenthesis
 
 
 
