@@ -54,7 +54,7 @@ Strategic overlaps between business and govt.
 
 Improving international cooperation - tools not politics
 
-    Common market origins - steel and coal - re-visited 
+Common market origins - steel and coal - re-visited 
 
 Implications for advertising and hence infrastructure.
 

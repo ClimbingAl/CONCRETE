@@ -1,10 +1,10 @@
 ---
-title: Indicative activities
+title: Core development activities
 parent: Development path
 nav_order: 97
 ---
 
-
+This is indicative only.
 
 The development of a coherent set of standards and best practices can be likened to many other engineering challenges. A core team will develop and test individual components and bring these together to make working prototype systems.  Components can be developed and tested individually by different sub-teams.. These will be brought together in early prototypes that generate the understanding that paves the way for refined coherent solutions. The following list is indicative of the types of activity that could be expected as part of the Pg CONCRETE core development process.
 
@@ -15,19 +15,21 @@ Prototypes will often be tested in end-user communities. End-users, will be free
 1. TOC
 {:toc}
 
-## *Digital resource management mechanisms*
+## Digital resource management mechanisms
 
 | Activity Number | 1                                                                                                 |
 |:----------------|:--------------------------------------------------------------------------------------------------|
 | Description     | To identify or develop the financial resource management mechanisms needed to maximise capability |
 | Timing comments | One of the longest poles in the tent.  Start Early. This may become an ongoing task.              |
-| Dependencies    | HMI test environment - human-centric development.                                                 |
+| Dependencies    |                                                |
 
 Demand across a common network for digital-related resources such as storage, compute, and (contested) bandwidth, will always outstrip finite supply. Mechanisms to dynamically prioritise resource allocations are required. Financial market models (receiving and spending money/crypto-tokens; pricing, bidding, and gifting structures) are currently the only approach identified that could enable this. Technical infrastructure to enable these markets (eg IOTA-style contracts) need to be baked into the core.
 
-There are many possible financial market models (How often do organisations receive 'money'? Are different tokens allocated for different resources? How are prices determined?).  The most challenging part of this task is the experimentation required to determine which mechansisms maximise organisational capabilies. These experiments require the live/virtual HMI development environments (below) to conduct development and test activities with real-world personnel.
+There are many possible financial market models (How often do organisations receive 'money'? Are different tokens allocated for different resources? How are prices determined?).  The most challenging part of this task is the experimentation required to determine which mechansisms maximise organisational capabilies. These experiments require the live/virtual HMI development environments (below) to conduct development and test activities with real-world personnel. 
 
-## *Information security model*
+Expect the need for personnel with game industry skills, and human-factors researchers, to help to create tools, and associated instrumented environments to conduct developmental testing (for this and many other activities)
+
+## Information security model
 
 | Activity Number | 2                                                                             |
 |:----------------|:------------------------------------------------------------------------------|
@@ -40,7 +42,7 @@ The CONCRETE socio-technical approach to multi-level information security allows
 There are many potential security-related edge-cases to consider.  The socio-technical approach needs to be developed and tested with end-users. Experimental development will provide groups of users with early versions of these tools. Early mock-ups may use simpler centralised approaches for experimental purposes.  Distributed and decentralised versions would be developed as part of the main foundation.
 
 
-## *Boss-Based Access Control*
+## Boss-Based Access Control
 
 | Activity Number | 3                                                                                   |
 |:----------------|:------------------------------------------------------------------------------------|
@@ -50,7 +52,7 @@ There are many potential security-related edge-cases to consider.  The socio-tec
 
 Boss-Based Access Control (BBAC) is a proposed socio-technical approach to the management of access to raw data. Early experiments can use mock-ups to test the socio- aspects of this approach including early development of the associated data caputre and monitoring tools that will be needed by organisational guards (similar to current fraud detection techniques used by banks) and more generally by the user community.
 
-## *Layered security tooling*
+## Layered security tooling
 
 | Activity Number | 4                                                                                                                               |
 |:----------------|:--------------------------------------------------------------------------------------------------------------------------------|
@@ -62,7 +64,7 @@ Many elements of the core CONCRETE approach (eg BBAC and information security) w
 
 This thread will develop a coherent set of cyber-physical standards and best practices (dongles/readers/2FA, tracking, biometrics, IDAM, digital locks, entry gates etc, and their links with the CONCRETE stack). Testing can be exepected to include penetration testing of mock working environments. 
 
-## *Chaos engineering and live cyber-risk awareness*
+## Chaos engineering and live cyber-risk awareness
 
 | Activity Number | 5                                                                                                                                                       |
 |:----------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -76,7 +78,7 @@ Cyber-related risks are not voodoo; they are quantifiable. Some risks, such as t
 
 As part of this, a chaos engineering approach will be adopted. This will enable (technically supported) organisational user-leaders to purposefully inject real faults/events into their own system. Personnel and organisations will be permanently dealing with cyber events as part of their everyday digital lives (the cyber version of: train hard, fight easy).  The technical machinery to enable this needs to be built into the core capability.
 
-## *Data-related algorithms*
+## Data-related algorithms
 
 | Activity Number | 6                                                                     |
 |:----------------|:----------------------------------------------------------------------|
@@ -88,7 +90,7 @@ Distributed and decentralised systems need specific mechanisms to enable users t
 
 End-users are not expected to work directly with these algorithms, but they will feel the effects of them (latency of systems, core system bandwidth overheads etc). Representative environments will be needed for testing and development.  This work will eventually be tested in live/virtual environments. This is likely to become and ongoing task requiring continued research and development. 
 
-## *High Quality Data Model (HQDM)*
+## High Quality Data Model (HQDM)
 
 | Activity Number | 7                                                         |
 |:----------------|:----------------------------------------------------------|
@@ -99,7 +101,7 @@ End-users are not expected to work directly with these algorithms, but they will
 HQDM is an ontological standard that enables the meaning of any and all data to be accurately and consistently described.  The foundation will require all data to be described using this approach.  This is key to digital capability; it enables digital-related velocity, flexibility, efficiency, and interoperability.  Associated tools, processes, and experience need to be developed.  HQDM is not currently in common use in the wider software industry.  This activity should also seek to rapidly accelerate initiatives to generate how-to guides and other training material to help to on-board developers who are new to this field.
 
 
-## *First-class links and information quality*
+## First-class links and information quality
 
 | Activity Number | 8                                                                    |
 |:----------------|:---------------------------------------------------------------------|
@@ -109,7 +111,7 @@ HQDM is an ontological standard that enables the meaning of any and all data to 
 
 Current hyperlinks are simple one-way references embedded within documents.  CONCRETE analysis highlighted the need for more powerful links that are stand-alone objects - Wendy-links.  These are needed, for example, to be able to map, understand, and maintain data about relationships between sources of information.  These links need to be developed in ways that respect the security mechanisms associated with CONCRETE. Users will need tooling to exploit these links to their full potential.  
 
-## *Decentralised communication tools*
+## Decentralised communication tools
 
 | Activity Number | 9                                                                    |
 |:----------------|:---------------------------------------------------------------------|
@@ -119,7 +121,7 @@ Current hyperlinks are simple one-way references embedded within documents.  CON
 
 Users will need best-of-class secure communication tools that work in decentralised environments.  Standards such as Matrix (messaging, chat rooms, video conferencing, VR) already exist.  These may need to be modified or used in ways that enable organisational guards.  This activity will embed this functionality withing the core set of standards.  
 
-## *Trust boundary management and tooling*
+## Trust boundary management and tooling
 
 | Activity Number | 10                                           |
 |:----------------|:---------------------------------------------|
@@ -129,7 +131,7 @@ Users will need best-of-class secure communication tools that work in decentrali
 
 A CONCRETE-based shared-data environment might span multiple government departments eg the MOD and the UK security services. The wider the scope, the more capable a system can be. However, there will always be a limit or boundary between those who are within the system and those that are not (driven by factors such as trust, shared values, and legal constructs).  There will always be a need to share data, information, and other capabilities across these boundaries (Gov, Industry, International etc).  This may be to other CONCRETE-based enclaves, or to entirely different systems.  This activity will develop the tooling, techniques, and associated governance frameworks to enable this gateway functionality.  
 
-## *Trust management tooling*
+## Trust management tooling
 
 | Activity Number | 11                                                  |
 |:----------------|:----------------------------------------------------|
@@ -139,7 +141,7 @@ A CONCRETE-based shared-data environment might span multiple government departme
 
 Decentralised and distributed CONCRETE nodes need mechanisms to enable them to join a network from a factory-reset state. Some functions, such as chaos-engineering, require permissions and authorities to be transferred from an originating node to others.  This functionality needs to be built into the core system. In extreme situations, pepple may need to reset/detach from a potentially compromised system and restart this process from scratch.  The human machine interfaces associated with node management need to developed with users (not just the IT crowd) in mind.  
 
-## *Spacetime synchronisation mechanisms*
+## Spacetime synchronisation mechanisms
 
 | Activity Number | 12                                                                                                                                   |
 |:----------------|:-------------------------------------------------------------------------------------------------------------------------------------|
@@ -153,7 +155,7 @@ A robust, resilient approach to spacetime synchronisation across is required. As
 
 The need for spacetime-related standards extends beyond clocks and time.  HQDM (Activity 7) is a 4-dimensional ontological approach; the MOD needs to adopt a consistent approach to describing concepts such as positions, components and sub-components etc.
 
-## *Data obfuscation and syntheteic data tools*
+## Data obfuscation and syntheteic data tools
 
 | Activity Number | 13                                                                                 |
 |:----------------|:-----------------------------------------------------------------------------------|
@@ -163,7 +165,7 @@ The need for spacetime-related standards extends beyond clocks and time.  HQDM (
 
 Boss-Based Access Control  requries users to select data sets with the least possible information content commensurate with their task.  Users need algorithms that can reliably strip or obfuscate otherwise sensitive data.  It also needs algorithms to enable personnel to produce statistically relevant sythetic data sets.  This activity will start to develop a library of these Government-assured algorithms. 
 
-## *Statistics, uncertainty, and probability*
+## Statistics, uncertainty, and probability
 
 | Activity Number | 14                                                                                             |
 |:----------------|:-----------------------------------------------------------------------------------------------|
@@ -173,7 +175,7 @@ Boss-Based Access Control  requries users to select data sets with the least pos
 
 Statistics, uncertainty, and probability can be expected to become increasingly important as all aspects of society become more data-centric. Statistics, uncertainty, and probability are likely to become everyday operational tools. Unfortunately, studies repeatedly show how poor human intuition is with these concepts; standards and best practices are required.  This might include the development of standard visualisations, approaches, and algorithms.  It might also identify the need for specialist support personnel or standard training packages.
 
-## *Networking*
+## Networking
 
 | Activity Number | 15                                                       |
 |:----------------|:---------------------------------------------------------|
@@ -183,7 +185,7 @@ Statistics, uncertainty, and probability can be expected to become increasingly 
 
 There are various communications and networking-related standards, best practices, and tools to develop and bring into the foundation. Much of this work will be informed by the HMI and resource management research activities. The outcomes of this may lead, for example, to the need for new networking standards and firmware developments for routers. Beyond the user-facing aspects of networking and communication, other standards such as hardware and associated test methodologies will be developed.
 
-## *Applied category theory*
+## Applied category theory
 
 | Activity Number | 16                                                                                        |
 |:----------------|:------------------------------------------------------------------------------------------|
@@ -197,7 +199,7 @@ The deep foundations of computing lie in the intersection of applied physics and
 
 There are a number of areas for potential early development. As an example, we could expect analysis of user activities to highlight that large numbers of personnel and organisations are involved in 'planning' (over many different fields, scales, and timescaless) and 'execution'. A better understanding of the fundamental structure of the acts of planning and execution could lead to new best practices for how to strucutre associated software tools. Common high-level themes of the benefits of category theory-based developments include improvements in software coherence, interoperability, composability (eg support for plans within plans), and efficiency.  From a user perspective, planning and execution process could become substantially more coherent across many currently disparate fields.  This could be expected to make organisations and users more efficient, and effective.
 
-## *Trusted hardware and seL4*
+## Trusted hardware and seL4
 
 | Activity Number | 17                                                                   |
 |:----------------|:---------------------------------------------------------------------|
@@ -209,7 +211,7 @@ Various standards and best practices associated with computing hardware and the 
 
 The implications of real-world use-case environments and computational workloads need to be understood and monitored over time for hardware optimisation (ASICs, FPGAs, GPUs, photonics, quantum computing etc). Various CONCRETE approaches may themselves be best served in hardware, not software. 
 
-## *Data storage technologies*
+## Data storage technologies
 
 | Activity Number | 18                                   |
 |:----------------|:-------------------------------------|
@@ -219,7 +221,7 @@ The implications of real-world use-case environments and computational workloads
 
 There are many benefits to be gained from live data networks, but there are also many benefits to be gained from mining large-scale long-term data stores.  Given its potential value, governments  and organisations can be expected to need to store vast amounts of data.  Even with modern fibre networks, it is often quicker, and substantially cheaper, to physically move data storage media around the globe. There are many different technical approaches to data storage and many different considerations. 
 
-## *Programming techniques for a CONCRETE world*
+## Programming techniques for a CONCRETE world
 
 | Activity Number | 19                                |
 |:----------------|:----------------------------------|
@@ -229,7 +231,7 @@ There are many benefits to be gained from live data networks, but there are also
 
 Developing high-quality software for use in a decentralised, distributed system can be expected to be non-trivial. Substantial benefit can be expected to be gained by developing and communicating standards and best practices associated with software development in a 'CONCRETE world'. 
 
-## *Full-stack physical prototypes*
+## Full-stack physical prototyping
 
 | Activity Number | 20                                       |
 |:----------------|:-----------------------------------------|
@@ -240,3 +242,22 @@ Developing high-quality software for use in a decentralised, distributed system 
 In order to develop standards and best practices, full-stack prototypes of various different form factors (large 19in rack mount hardware, laptops, to miniaturised systems) will need to be made and tested (individually and collectively).  
 
 
+## Red team
+
+| Activity Number | 21                                                              |
+|:----------------|:----------------------------------------------------------------|
+| Description     | A dedicated team searching for errors or potential improvements |
+| Timing comments |                                                                 |
+| Dependencies    | Related: All.                                                   |
+
+To mitigate against groupthink and other biases, this is a purposefully arms-length team with access-all-area passes.  This team would conduct their own research and development activities to enable them to challenge the status quo.  This team needs sufficient funding to keep up with the pace of core development activities.
+
+## Internal and external communication
+
+| Activity Number | 22                                                                      |
+|:----------------|:------------------------------------------------------------------------|
+| Description     | A dedicated team (or teams) aiding internal and external communication. |
+| Timing comments |                                                                         |
+| Dependencies    | Related: All.                                                           |
+
+Artists, graphic design, videographers, content creators, ..  Technical people are notoriously poor communicators.  There will be a lot of communication needs.
