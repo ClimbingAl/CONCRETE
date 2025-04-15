@@ -8,7 +8,7 @@ nav_order: 3
 This is a collection of inter-related material for many people with different needs.  It is not really meant to be consumed linearly.  Unfortunately this makes it one-size-fits-none.  It is broadly organised into 3 high-level categories:
 
 -   Socio-technical material about the 'foundation', ways of working, and services. **What** is it?
--   The practical journey or development path.  **How** do we make and maintain this?
+-   The practical journey or development path.  **How** do we make, maintain, and add to this?
 -   Some holistic perspectives about potential implications or opportunities: more strategic **Why**?
 
 Basic search is provided.
