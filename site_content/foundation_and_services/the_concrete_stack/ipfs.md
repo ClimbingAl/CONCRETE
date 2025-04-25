@@ -12,7 +12,9 @@ Content (not location) addressed distributed data storage
 ----
 [![ipfs logo](../../../../images/current/ipfs.png)](https://ipfs.tech/)
 
-IPFS is about data storage.  <span>Stable</span>{: .label .label-green } Basic IPFS functionality within CONCRETE, as described here, is considered to be stable. Despite this, further work is known to be required to cohere this as part of a wider, performant, CONCRETE whole (LINK).
+IPFS is about data storage in distributed, decentralised networks.  
+
+<span>Stable</span>{: .label .label-green } Basic IPFS functionality within CONCRETE, as described here, is considered to be stable. Despite this, further work is known to be required to cohere this as part of a wider, performant, CONCRETE whole (LINK).
 
 ## Table of contents
 {: .no_toc }
