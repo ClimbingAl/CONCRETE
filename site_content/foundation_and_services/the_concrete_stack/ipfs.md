@@ -44,8 +44,6 @@ To use the example scenario depicted above, the car node (A) has produced and lo
 
 The immutability (unchangeability) property of this data is particularly important from a multi-user (socio-) perspective.  This enables any and all users to independently and locally make these kinds of risk/reward/efficiency decisions without stepping on each others toes.  A user can choose to replicate this data for their own benefit without it negatively affecting others.  For example, a user might be concerned that if the node E is lost, then nodes H, I, and J might lose access to this data source.  They could re-replicate the data at I, improving resilience, redundancy, and network performance not just for themselves but for other users too.  The ability for users to make these local risk/reward decisions is incredibly important from [dynamic risk management]({% link site_content/foundation_and_services/some_basic_needs.md%}#enabling-dynamic-risk-management-in-a-dynamic-world) perspective.  The overall risk/reward position is an emergent property of all the local decisions.  It is not something that is (or should be) centrally controlled.[^teamwork]
 
-
-
 [^teamwork]:
     Although full central control of data-related risk would be inefficient and undesirable, this does not mean that users are forced to micro-manage all data. Users might choose to defer to broader centralised strategies; some users might be given data-enabling roles.  The important principle here is just that users can choose to closely manage data as and when they want to; any more centralised approaches are only there to support users when they wish.
 
