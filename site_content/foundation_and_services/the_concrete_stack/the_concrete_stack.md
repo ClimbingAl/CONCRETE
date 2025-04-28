@@ -26,7 +26,7 @@ The diagram below is a technical sketch of the make-up of an abstract node and s
 
 | Component                                                                                                          | Description                                                                  |
 |:-------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------|
-| [Trusted Hardware]({% link site_content/foundation_and_services/the_concrete_stack/trusted_hardware.md %})         | The physical processor and associated risks.                                 |
+| [Trusted Hardware]({% link site_content/foundation_and_services/the_concrete_stack/trusted_hardware.md %})         | The physical hardware and associated risks.                                 |
 | [&#174; seL4]({% link site_content/foundation_and_services/the_concrete_stack/seL4.md %})                          | The world's most highly assured operating system kernel.                     |
 | [Ouroboros]({% link site_content/foundation_and_services/the_concrete_stack/ouroboros.md %})                       | Networking.                                                                  |
 | [IPFS]({% link site_content/foundation_and_services/the_concrete_stack/ipfs.md %})                                 | Distributed, decentralised data storage.                                     |

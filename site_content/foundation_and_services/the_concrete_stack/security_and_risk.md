@@ -12,15 +12,10 @@ Layered security and risk support
 {: .fs-6 .fw-300 }
 ----
 
-There is no single thing.
+This is a placeholder for an entire class of utilities associated with risk and security in the CONCRETE stack; a set of common and specialist tools that enable users to achieve their own security and risk-related goals. Continuing with the distributed and decentralised theme, CONCRETE seeks to support users' security and risk needs in depth ie there should be no single, central, one-size-fits-all approach (and point of failure).
 
-Here are some of the things that this might include.
+The CONCRETE stack enables us to run (identifiable) security tools that can produce clearly defined outputs (in both formal-methods and HQDM senses).  These can be used directly, or as IOTA oracles of 'truth'. CONCRETE's strong support for 'digital book-keeping' will enable the development of many tools to help users to understand and (automatically) manage their preferred risk profiles.
 
-## Table of contents
-{: .no_toc }
+Taking this approach enables sometimes monolithic approaches to security to be decomposed. For example, the generic concept of identity might be supported by having separate tools and processes such as fingerprints, DNA, location tracking, car tracking, dongle tracking, gait analysis etc.
 
-1. TOC
-{:toc}
-
-## Thing 1
 
