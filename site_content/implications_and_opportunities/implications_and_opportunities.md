@@ -52,9 +52,7 @@ Climate change
 
 Strategic overlaps between business and govt.
 
-Improving international cooperation - tools not politics
-
-    Common market origins - steel and coal - re-visited 
+Improving international cooperation - tools not politics.  (Common market origins - steel and coal tracking and use - re-visited from a CONCRETE perspective). 
 
 Implications for advertising and hence infrastructure.
 
@@ -63,6 +61,20 @@ Implications for advertising and hence infrastructure.
 Techno-visionary destinations with techno-hell journeys.
 
 Accelerators and no brakes
+
+## Academia and research
+
+Linking needs to research
+
+Linking researchers / research
+
+## Business
+
+Small business
+
+Collaboration / efficiency
+
+Govt as an enabler of business
 
 ## Economics
 

@@ -20,13 +20,13 @@ The [basic user needs]({% link site_content/foundation_and_services/some_basic_n
 
 ![In a distributed decentralised system everything is just an abstract node](../../../../images/current/abstract_node.png)
 
-The diagram below is a technical sketch of the make-up of an abstract node and some key ancillary functions. This should not be taken literally. The components shown act as a shorthand description; we should really add '-like' at the end of most of them. This is just a starting point for refinement.  The need for many of these components can be deduced directly from the basic user needs; some appear here out-of-the blue and are introduced later. From a major technical sub-component perspective though, **this is it**.  This section provides introductions to these components. The next socio-technical section only adds detail about how this would be configured and used.  
+The diagram below is a technical sketch of the make-up of an abstract node and some key ancillary functions. This should not be taken literally. The components shown act as a shorthand description; we should really add '-like' at the end of most of them. This is just a starting point for refinement.  The need for many of these components can be deduced directly from the basic user needs; some appear here out-of-the blue and are introduced later. From a major technical sub-component perspective though, **this is it**.  This section provides introductions to these components individually and then provides more insight into bringing them together. The next socio-technical section does not add more components, it adds detail about how this would be configured and used.  
 
 ![stack of concrete components](../../../../images/current/CONCRETE_stack.png)
 
 | Component                                                                                                          | Description                                                                  |
 |:-------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------|
-| [Trusted Hardware]({% link site_content/foundation_and_services/the_concrete_stack/trusted_hardware.md %})         | The physical processor and associated risks.                                 |
+| [Trusted Hardware]({% link site_content/foundation_and_services/the_concrete_stack/trusted_hardware.md %})         | The physical hardware and associated risks.                                 |
 | [&#174; seL4]({% link site_content/foundation_and_services/the_concrete_stack/seL4.md %})                          | The world's most highly assured operating system kernel.                     |
 | [Ouroboros]({% link site_content/foundation_and_services/the_concrete_stack/ouroboros.md %})                       | Networking.                                                                  |
 | [IPFS]({% link site_content/foundation_and_services/the_concrete_stack/ipfs.md %})                                 | Distributed, decentralised data storage.                                     |
@@ -36,7 +36,7 @@ The diagram below is a technical sketch of the make-up of an abstract node and s
 | [Security and Risk]({% link site_content/foundation_and_services/the_concrete_stack/security_and_risk.md %})       | Applications associated with security and risk.                              |
 | [Spacetime Management]({% link site_content/foundation_and_services/the_concrete_stack/spacetime_management.md %}) | Infrastructure and processes associated with clock synchronisation           |
 | [Dongles]({% link site_content/foundation_and_services/the_concrete_stack/dongles.md %})                           | Non-nodal devices for users and security.                                    |
-| [HQDM]({% link site_content/foundation_and_services/the_concrete_stack/hqdm.md %})                                 | The ontology - the ultimate tool for data interoperability.                  |
+| [HQDM]({% link site_content/foundation_and_services/the_concrete_stack/hqdm.md %})                                 | The ontology - the ultimate tool for data quality and interoperability.      |
 | [HMI Best Practice]({% link site_content/foundation_and_services/the_concrete_stack/hmi_best_practices.md %})      | Human Machine Interface standards - crucial for efficiency and effectiveness |
 
 
